@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppListaProductos</string>
+    <string name="hint_nombre">Ingrese su nombre</string>
+    <string name="btn_desplegar">Desplegar productos</string>
+    <string name="scroll_name">Scroll1</string>
+</resources>
